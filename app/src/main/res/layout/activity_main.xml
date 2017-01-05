@@ -43,7 +43,7 @@
                     android:layout_height="wrap_content"
                     android:inputType="text"
                     android:gravity="center"
-                    android:text="XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX"
+                    android:text="XXXXX-XXXXX-XXXXX-XXXXX-XXXXX"
                     android:hint="Fill '*' per number of character to be replaced"/>
 
             </android.support.design.widget.TextInputLayout>
@@ -75,7 +75,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Button" />
+                android:text="Generate" />
 
         </LinearLayout>
 
